@@ -32,7 +32,7 @@ My style of development is based on:
 Below are the main highlighted areas of what I build.  
 More private projects will be made public soon.
 
-[https://github.com/SSSSolomon/portfolio/tree/main](url)
+[https://github.com/SSSSolomon/portfolio/](d)
 
 ---
 
