@@ -31,7 +31,7 @@ My style of development is based on:
 
 Below are the main highlighted areas of what I build.  
 More private projects will be made public soon.
-[Vue](https://github.com/SSSSolomon/portfolio/)
+[Portfolio GitHub](https://github.com/SSSSolomon/portfolio/)
 
 ---
 
