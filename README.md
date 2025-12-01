@@ -1,15 +1,14 @@
-# 👋 Hi, I'm Solomon  
-### LUA Developer (FiveM) • PHP Developer • Full-Stack Learner • WordPress Specialist
-
-I am a self-taught developer with strong experience in **FiveM (LUA) scripting**, **WordPress performance optimization**, **PHP Frameworks (or basic)**, and **Python automation**.  
-Throughout the years, I have built **full FiveM server systems**, **anti-cheat modules**, **admin web panels**, **custom WordPress setups**, and various automation tools.
+# 👋 Hello, I'm Solomon. 
+## Dynamic Full-Stack Developer
+---
+I'm a self-taught developer with strong experience in web-develoment, apps, cybersecurity, wordpress, and more.
+- **Web-development** (HTML5, CSS/SCSS, PHP, Laravel, React, Svelte, JS, Typescript)
+- **General development** (Pawn, Lua, C#, NodeJS, Svelte)
 
 My style of development is based on:  
 **clean structure, high performance, security, stability, and unbreakable logic**.
 
-
 ---
-
 ## 🚀 Skills
 - **API's - Integration & Logic**
 - **LUA - (FiveM scripting & systems development)**
@@ -51,7 +50,7 @@ I have developed multiple systems for FiveM servers — from gameplay logic to s
 - **Game Related Systems - (JS, CSS, HTML, LUA, Typescript)**
 - **Custom server-side tools & optimizations**
 
-FiveM scripting is my strongest point — I build everything with performance and security in mind.
+FiveM scripting is one of my strongest point — I build everything with performance and security in mind.
 
 ---
 ## 📂 GitHub Repository Structure
@@ -61,6 +60,9 @@ FiveM scripting is my strongest point — I build everything with performance an
 - wordpress/ → screenshots of the actual running wordpress website (On the poorest hosting service, ever made [0.5 ghz / 800 mb ram])
 - react/ → learning + projects and UI experiments
 
+---
+### 🔹 **Cybersecurity**
+- helping servers/games that are using Lua / JS / Svelte to improve detection on internal/external cheats
 ---
 ### 🔹 **WordPress Development**
 - Fully optimized sites (even on extremely weak hosting: ~0.5GHz CPU / ~800mb RAM)  
